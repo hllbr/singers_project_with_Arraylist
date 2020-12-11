@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 
 public class Main {
     private static Sarkıcılar sarkıcılar = new Sarkıcılar();//başka bir obje direkt oalrak classımızın içine alınmış oldu (composition)
